@@ -23,6 +23,62 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-05-04T20:32:56.723Z"
+    },
+    {
+      "description": "Desenvolviment de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-05T05:04:50.262Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolviment de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-05T05:04:53.529Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolviment de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-05T05:04:57.403Z",
+      "id": 6
+    },
+    {
+      "description": "Açai",
+      "price": 14,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-05T05:06:33.435Z",
+      "id": 7
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-05T05:14:27.625Z",
+      "id": 8
+    },
+    {
+      "description": "Yogurte de banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-05T05:23:41.817Z",
+      "id": 9
+    },
+    {
+      "description": "Flanelinha",
+      "price": 1,
+      "category": "Pressão psicológica",
+      "type": "outcome",
+      "createdAt": "2023-05-05T05:25:11.558Z",
+      "id": 10
     }
   ]
 }
